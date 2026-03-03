@@ -1,6 +1,6 @@
 [project]
 site_name = "Documentación de prueba para PIG"
-site_url = "https://supercomputo-cudi.github.io/PIG"
+site_url = "https://victor-MMN.github.io/zensical-doc-test"
 
 nav = [
     {"Principal" = "index.md"},
